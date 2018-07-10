@@ -13,7 +13,7 @@
     <div class="stackedit__toc">
       
 <ul>
-<li>
+<li><a href="#thanks-bot">Thanks Bot</a>
 <ul>
 <li><a href="#heading-2">Heading 2</a></li>
 </ul>
@@ -24,7 +24,7 @@
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
-      <p><a href="https://bots.kwench.com/bots/thanksbot"># Heading 1</a></p>
+      <h1 id="thanks-bot"><a href="https://github.com/sundernookala/srp/thanksbot.md">Thanks Bot</a></h1>
 <h2 id="heading-2">Heading 2</h2>
 
     </div>
