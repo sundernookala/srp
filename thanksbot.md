@@ -24,7 +24,7 @@
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
-      <h1 id="thanks-bot"><a href="https://github.com/sundernookala/srp/thanksbot.md">Thanks Bot</a></h1>
+      <h1 id="thanks-bot"><a href="https://github.com/sundernookala/srp/blob/master/thanksbot.md">Thanks Bot</a></h1>
 <h2 id="heading-2">Heading 2</h2>
 
     </div>
